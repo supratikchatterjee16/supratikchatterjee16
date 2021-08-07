@@ -1,6 +1,6 @@
 # Hello
 
-I am (Supratik Chatterjee)[https://supratikchatterjee16.github.io].
+I am [Supratik Chatterjee](https://supratikchatterjee16.github.io).
 
 - 🔭 I’m currently working on several projects
 - 🌱 I’m currently learning Business Analysis
