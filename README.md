@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello
+
+I am (Supratik Chatterjee)[https://supratikchatterjee16.github.io].
+
+- 🔭 I’m currently working on several projects
+- 🌱 I’m currently learning Business Analysis
+- 👯 I’m looking to collaborate on Natural Language Research
+- 💬 Ask me about anything, especially about Sockets and setting up a self sufficient intranet. 😄
+- 📫 How to reach me: supratikdevm96@gmail.com
+- ⚡ Fun fact: My sister is super annoying.
 
 <!--
 **supratikchatterjee16/supratikchatterjee16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
