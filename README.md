@@ -32,6 +32,7 @@ Python is useful for prototyping and some data science. Especially useful for ta
 [![AFI](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=afi)](https://github.com/supratikchatterjee16/afi)
 [![AFI](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=workbench)](https://github.com/supratikchatterjee16/workbench)
 [![NASTY UI Card](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=nastyui)](https://github.com/supratikchatterjee16/nastyui)
+[![SERP Bot](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=serp_bot)](https://github.com/supratikchatterjee16/serp_bot)
 
 ## GitHub Statistics
 
