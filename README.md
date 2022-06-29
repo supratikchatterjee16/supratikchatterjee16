@@ -22,7 +22,7 @@ I am [Supratik Chatterjee](https://supratikchatterjee16.github.io). A Computer S
 
 Only the constructs I'm well acquainted with are listed here. I have played around with a lot of things, one of which includes 22 programming languages.  
 
-My favourite language is Rust.  
+My favourite language is Rust.
 Python is useful for prototyping and some data science. Especially useful for targetted conversion to bare metal code in production.
 
 ## Pinned Projects
@@ -35,7 +35,7 @@ Python is useful for prototyping and some data science. Especially useful for ta
 
 ## GitHub Statistics
 
-![Supratik's github Stats](https://github-readme-stats.vercel.app/api?username=supratikchatterjee16&show_icons=true&theme=radical&include_all_commits=true) ![Supratik's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=supratikchatterjee16&theme=radical&layout=compact&hide=jupyter%20notebook)
+![Supratik's github Stats](https://github-readme-stats.vercel.app/api?username=supratikchatterjee16&show_icons=true&theme=radical&include_all_commits=true) ![Supratik's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=supratikchatterjee16&theme=radical&layout=compact&hide=jupyter%20notebook,html)
 
 \*stats shown are derived from public repos, and does not represent the contributions in full.
 
