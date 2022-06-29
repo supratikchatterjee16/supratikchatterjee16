@@ -27,11 +27,10 @@ Python is useful for prototyping and some data science. Especially useful for ta
 
 ## Pinned Projects
 
-[![NASTY Card](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=nasty)](https://github.com/supratikchatterjee16/nasty)
+[![NASTY](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=nasty)](https://github.com/supratikchatterjee16/nasty)
 [![APF](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=APF)](https://github.com/supratikchatterjee16/APF)
 [![AFI](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=afi)](https://github.com/supratikchatterjee16/afi)
-[![AFI](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=workbench)](https://github.com/supratikchatterjee16/workbench)
-[![NASTY UI Card](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=nastyui)](https://github.com/supratikchatterjee16/nastyui)
+[![NASTY UI](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=nastyui)](https://github.com/supratikchatterjee16/nastyui)
 [![SERP Bot](https://github-readme-stats.vercel.app/api/pin/?username=supratikchatterjee16&repo=serp_bot)](https://github.com/supratikchatterjee16/serp_bot)
 
 ## GitHub Statistics
